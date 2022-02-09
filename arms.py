@@ -10,6 +10,7 @@ Problema proposto:
 
 Escreva um programa que imprima todos os números de Armstrong em base 10 que tenham até 6 dígitos."""
 
+
 def arms():
     for n in range(1, 999999):
         calcular(n)

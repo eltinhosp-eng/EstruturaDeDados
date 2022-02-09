@@ -11,4 +11,3 @@ def palindromo(palavra):
 print(palindromo('mussum'))
 print(palindromo('jose'))
 print(palindromo('abacate'))
-
